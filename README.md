@@ -35,6 +35,13 @@ The platform uses historical sales data to generate future sales forecasts, help
 - Support inventory planning
 - Improve business decision-making
 
+## 📑 Project Presentation
+
+The complete project presentation is available on Google Drive.
+
+🔗 **Presentation (PPT):**  
+https://drive.google.com/file/d/1i6A5hbDh9bbiTlxJGIFdhpNw5PLuDXd-/view?usp=drive_link
+
 ## 📚 Published Research
 
 This project is associated with research presented at the **Karachi Conference**.
